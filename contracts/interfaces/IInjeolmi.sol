@@ -16,5 +16,5 @@ interface IInjeolmi {
 }
 
 
-//이 코드는 erc20 인터페이스 코드, 토큰 기능을 하기 위한 코드들임( 송금, 입금, 토큰 개수 등등)
+//이 코드는 erc20 인터페이스 코드, 토큰 기능을 하기 위한 코드들임( 송금, 입금, 토큰 개수 등등);;
 //참고 https://docs.klaytn.com/smart-contract/sample-contracts/erc-20/1-erc20
